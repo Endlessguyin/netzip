@@ -1,2 +1,2 @@
 # netzip
-Download assets that appear in the network tab in inspect.
+Download assets that appear inside the network tab when using inspect.
